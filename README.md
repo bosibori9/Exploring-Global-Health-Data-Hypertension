@@ -49,7 +49,8 @@ factors spanning from the year 1975 through 2021.
    
 
 ## Future Work
-Different method on handling the missing data by multiple imputation to see whether model performance will improve
+Handling missind data by multiple imputation to see whether model performance will improve
+
 Better comparison between the two models. 
 
 ## Author
