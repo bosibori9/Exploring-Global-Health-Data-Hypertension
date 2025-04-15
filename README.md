@@ -24,12 +24,15 @@ factors spanning from the year 1975 through 2021.
 
 ## Key Findings
 -Hypertension increases with the increase in level of the income groups.
+
 -There seem to be a correlation between Hypertension and alcohol consumption, smoking, overweight 
+
 -from the model: 
-    Low income has large positive main effect (β = 10.586)
-    Income moderates the effects of other variables
-    Male effect varies by income level
-    Alcohol and smoking effects differ across income groups
+
+    1.Low income has large positive main effect (β = 10.586)
+    2.Income moderates the effects of other variables
+    3.Male effect varies by income level
+    4.Alcohol and smoking effects differ across income groups
 
 
 ## Tools & Technologies
