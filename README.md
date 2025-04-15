@@ -3,12 +3,14 @@
 ## Project Overview
 This project analyzes global health data focusing on hypertension causal factors. Using Jupyter notebook, I explore datasets to uncover insights about 
 hypertension prevalence, risk factors, and geographic distribution of these factors together with the effect of social-economic factors on the same.
+
 **Objective:** There are two main objectives, first is to be able to explore the relationship between lifestyle factors and the prevalence of hypertension 
 and the second is to able to be able to analyse the probability of dying based on health behaviours and treatments.
 
 ## Dataset
 The analysis uses  dataset  from the WHO site. It encompasses comprehensive information regarding Obesity and Hypertension and other different
 factors spanning from the year 1975 through 2021.
+
 **Dataset Details:** The initial data set before any transformation consits of:
 
 Number of Samples: 110316 records.
