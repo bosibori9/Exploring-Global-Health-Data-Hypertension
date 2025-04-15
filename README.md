@@ -13,8 +13,8 @@ factors spanning from the year 1975 through 2021.
 
 **Dataset Details:** The initial data set before any transformation consits of:
 
-Number of Samples: 110316 records.
-Number of Features: 6 attributes.
+        1. Number of Samples: 110316 records.
+        2. Number of Features: 6 attributes.
 
 ## Analysis Approach
 - Data cleaning and preprocessing
